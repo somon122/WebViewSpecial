@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "822310568742",
+    "firebase_url": "https://rialto-bd.firebaseio.com",
+    "project_id": "rialto-bd",
+    "storage_bucket": "rialto-bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822310568742:android:01d9eca4d033b7a9a3f7e7",
+        "android_client_info": {
+          "package_name": "Rialto.com.bd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822310568742-v6pb729l28v0jfgvoj81ao78vp13p4sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkngv8He8SPr3kTQJFWdCo4onPj81Stb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822310568742-v6pb729l28v0jfgvoj81ao78vp13p4sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822310568742:android:a16f10355b1d4c9aa3f7e7",
+        "android_client_info": {
+          "package_name": "com.world_tech_point.rialtobd_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822310568742-v6pb729l28v0jfgvoj81ao78vp13p4sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkngv8He8SPr3kTQJFWdCo4onPj81Stb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822310568742-v6pb729l28v0jfgvoj81ao78vp13p4sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
